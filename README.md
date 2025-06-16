@@ -1,1 +1,1 @@
-# Task_3
+In the third task of my internship I added a few more advanced features of JavaScript in the form of Quiz for the customers and also to fetch data from a public API and display the data dynamically in the form of a Joke.
